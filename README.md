@@ -1,3 +1,3 @@
-# Exercicíos do Bootcamps da Digital Innovation One
+# Exercises from DIO Bootcamps
 
-Objetivo deste repositório: compartilhar resolução para exercícios propostos. 
+Main objective: share resolution codes for proposed exercises.
